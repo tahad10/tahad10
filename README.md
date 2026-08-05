@@ -1,129 +1,84 @@
+<!-- ===== HEADER / BANNER (CYBER BLUE TYPING SVG) ===== -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Taha+Darende;Computer+Science+%40+Uni+Stuttgart;Security+%26+Tech+Enthusiast;Welcome+to+my+cyber+space!" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <b>🚀 CS Student</b> &bull; <b>💻 Developer</b> &bull; <b>🛡️ Tech & Cyber Enthusiast</b>
+  </p>
+</div>
+
+<!-- ===== GITHUB STATS (THEME-AWARE / HIGH-TECH BLUE) ===== -->
 <div align="center">
 
-<!-- Animierter Typing-Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hallo,%20ich%20bin%20[DEIN%20NAME]&fontSize=42&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=[DEINE%20ROLLE%20/%20TAGLINE,%20z.B.%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast]&descAlignY=58&descSize=18" />
+<!-- Streak — full width (Cyber Blue) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=tahad10&hide_border=true&background=0A101F&stroke=00F0FF&ring=3B82F6&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=00F0FF&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=tahad10&hide_border=true&background=FFFFFF&stroke=1D4ED8&ring=2563EB&fire=0284C7&currStreakLabel=1D4ED8&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=1D4ED8&card_width=1180" alt="Taha's streak" />
+</picture>
 
-<!-- Typing SVG (schreibt automatisch mehrere Zeilen nacheinander) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=[Dein+Slogan+1+z.B.+Ich+baue+Dinge+f%C3%BCr+das+Web];[Dein+Slogan+2+z.B.+Open+Source+Enthusiast];[Dein+Slogan+3+z.B.+Immer+am+Lernen]" alt="Typing SVG" />
-</a>
+<br/><br/>
+
+<!-- Stats + Top languages — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=tahad10&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=00F0FF&icon_color=3B82F6&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=tahad10&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=1D4ED8&icon_color=2563EB&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Taha's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=tahad10&layout=compact&langs_count=8&hide_border=true&title_color=00F0FF&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=tahad10&layout=compact&langs_count=8&hide_border=true&title_color=1D4ED8&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
 
 </div>
 
----
+<br/>
 
-### 🧑‍🚀 Über mich
-
-```yaml
-name: "[Dein Name]"
-role: "[z.B. Software Engineer / Data Scientist / DevOps]"
-location: "[Deine Stadt, Land]"
-current_focus: "[z.B. Backend-Entwicklung mit Go]"
-learning: "[z.B. Rust, Kubernetes]"
-fun_fact: "[Ein lustiger Fakt über dich]"
-contact: "[deine@email.com]"
-```
-
----
+<!-- ===== TECH STACK & LANGUAGES ===== -->
+<div align="center">
+  <h3>🛡️ Tech Stack & Programming Languages</h3>
+  <p>
+    <!-- Languages -->
+    <img src="https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=00F0FF&labelColor=0A101F" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=00F0FF&labelColor=0A101F" alt="Python" />
+    <img src="https://img.shields.io/badge/C++-0A101F?style=for-the-badge&logo=cplusplus&logoColor=00F0FF&labelColor=0A101F" alt="C++" />
+    <img src="https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5&logoColor=00F0FF&labelColor=0A101F" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-0A101F?style=for-the-badge&logo=css3&logoColor=00F0FF&labelColor=0A101F" alt="CSS3" />
+    <br/>
+    <!-- Tools & Environment -->
+    <img src="https://img.shields.io/badge/Linux-0A101F?style=for-the-badge&logo=linux&logoColor=00F0FF&labelColor=0A101F" alt="Linux" />
+    <img src="https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=00F0FF&labelColor=0A101F" alt="Git" />
+    <img src="https://img.shields.io/badge/VS_Code-0A101F?style=for-the-badge&logo=visual-studio-code&logoColor=00F0FF&labelColor=0A101F" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Bash-0A101F?style=for-the-badge&logo=gnubash&logoColor=00F0FF&labelColor=0A101F" alt="Bash" />
+  </p>
+</div>
 
 ### 🛠️ Tech Stack
-
+ 
 <div align="center">
-
 <!-- Sprachen -->
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust,cpp,html,css&theme=dark" /><br><br>
-
+ 
 <!-- Frameworks & Tools -->
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,django,flask,tailwind&theme=dark" /><br><br>
-
+ 
 <!-- Datenbanken & DevOps -->
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws,gcp,git&theme=dark" />
-
 </div>
-
 > ℹ️ **Platzhalter-Hinweis:** Passe die Kürzel in den `?i=...`-Parametern der Skillicons-URLs an deine eigenen Skills an (Liste: https://skillicons.dev)
 
----
 
-### 📊 GitHub Statistiken
-
+<!-- ===== SOCIAL BADGES (CYBER BLUE STYLE) ===== -->
+<br/>
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DEIN-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEIN-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
-> ℹ️ Ersetze überall `DEIN-GITHUB-USERNAME` mit deinem tatsächlichen GitHub-Benutzernamen.
-
----
-
-### 🏆 GitHub Trophäen
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DEIN-GITHUB-USERNAME&theme=darkhub&no-frame=true&column=7&margin-w=10" />
-</div>
-
----
-
-### 🚀 Ausgewählte Projekte
-
-<div align="center">
-
-<a href="https://github.com/DEIN-GITHUB-USERNAME/PROJEKT-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DEIN-GITHUB-USERNAME&repo=PROJEKT-1&theme=tokyonight&hide_border=true" />
+<a href="https://www.linkedin.com/in/dein-linkedin-name/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0A101F" alt="LinkedIn" />
 </a>
-<a href="https://github.com/DEIN-GITHUB-USERNAME/PROJEKT-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DEIN-GITHUB-USERNAME&repo=PROJEKT-2&theme=tokyonight&hide_border=true" />
+&nbsp;&nbsp;
+<a href="https://github.com/tahad10">
+  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0A101F" alt="GitHub" />
 </a>
 
-</div>
-
-| Projekt | Beschreibung | Tech Stack |
-|---|---|---|
-| [🔗 Projektname 1](https://github.com/DEIN-GITHUB-USERNAME/projekt-1) | [Kurze Beschreibung des Projekts] | `[Tech 1]` `[Tech 2]` |
-| [🔗 Projektname 2](https://github.com/DEIN-GITHUB-USERNAME/projekt-2) | [Kurze Beschreibung des Projekts] | `[Tech 1]` `[Tech 2]` |
-| [🔗 Projektname 3](https://github.com/DEIN-GITHUB-USERNAME/projekt-3) | [Kurze Beschreibung des Projekts] | `[Tech 1]` `[Tech 2]` |
-
----
-
-### 🌐 Connect mit mir
-
-<div align="center">
-
-<a href="https://linkedin.com/in/DEIN-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/DEIN-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:DEINE-EMAIL@beispiel.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://DEINE-WEBSITE.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://discord.com/users/DEINE-DISCORD-ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Aktivität der letzten Zeit
-
-<!--START_SECTION:activity-->
-<!-- Diese Sektion kann automatisch durch die GitHub Action "github-readme-activity-graph" 
-     oder "github-activity-readme" befüllt werden -->
-<!--END_SECTION:activity-->
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DEIN-GITHUB-USERNAME&label=Profilaufrufe&color=00F5D4&style=flat" />
-
-<sub>⚡ Erstellt mit ❤️ von [Dein Name] – zuletzt aktualisiert am [Datum]</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
 </div>
