@@ -5,7 +5,7 @@
   </a>
 
   <p align="center">
-    <b>🚀 CS Student</b> &bull; <b>💻 Developer</b> &bull; <b>🛡️ Tech & Cyber Enthusiast</b>
+    <b>💻 Information Systems Student</b> &bull; <b>Developer 💻</b>
   </p>
 </div>
 
@@ -37,42 +37,25 @@
 <!-- ===== TECH STACK & LANGUAGES ===== -->
 <div align="center">
   <h3>🛡️ Tech Stack & Programming Languages</h3>
-  <p>
-    <!-- Languages -->
-    <img src="https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=00F0FF&labelColor=0A101F" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=00F0FF&labelColor=0A101F" alt="Python" />
-    <img src="https://img.shields.io/badge/C++-0A101F?style=for-the-badge&logo=cplusplus&logoColor=00F0FF&labelColor=0A101F" alt="C++" />
-    <img src="https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5&logoColor=00F0FF&labelColor=0A101F" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-0A101F?style=for-the-badge&logo=css3&logoColor=00F0FF&labelColor=0A101F" alt="CSS3" />
-    <br/>
-    <!-- Tools & Environment -->
-    <img src="https://img.shields.io/badge/Linux-0A101F?style=for-the-badge&logo=linux&logoColor=00F0FF&labelColor=0A101F" alt="Linux" />
-    <img src="https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=00F0FF&labelColor=0A101F" alt="Git" />
-    <img src="https://img.shields.io/badge/VS_Code-0A101F?style=for-the-badge&logo=visual-studio-code&logoColor=00F0FF&labelColor=0A101F" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Bash-0A101F?style=for-the-badge&logo=gnubash&logoColor=00F0FF&labelColor=0A101F" alt="Bash" />
-  </p>
-</div>
 
-### 🛠️ Tech Stack
- 
 <div align="center">
 <!-- Sprachen -->
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust,cpp,html,css&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&theme=dark" /><br><br>
  
 <!-- Frameworks & Tools -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,django,flask,tailwind&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,flask,tailwind&theme=dark" /><br><br>
  
 <!-- Datenbanken & DevOps -->
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws,gcp,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,supabase,firebase,git&theme=dark" />
 </div>
-> ℹ️ **Platzhalter-Hinweis:** Passe die Kürzel in den `?i=...`-Parametern der Skillicons-URLs an deine eigenen Skills an (Liste: https://skillicons.dev)
 
+</div>
 
 <!-- ===== SOCIAL BADGES (CYBER BLUE STYLE) ===== -->
 <br/>
 <div align="center">
 
-<a href="https://www.linkedin.com/in/dein-linkedin-name/">
+<a href="https://www.linkedin.com/in/taha-darende/">
   <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0A101F" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
