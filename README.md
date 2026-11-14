@@ -1,5 +1,11 @@
 <!-- ===== HEADER / BANNER (CYBER BLUE TYPING SVG) ===== -->
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=tahad10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Taha+Darende;Computer+Science+%40+Uni+Stuttgart;Security+%26+Tech+Enthusiast;Welcome+to+my+cyber+space!" alt="Typing SVG" />
   </a>
